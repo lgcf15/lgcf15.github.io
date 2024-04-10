@@ -1,6 +1,16 @@
 # Luis Guilherme Cardoso C B Freitas
 
 Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardoso)
+
+# Publications and Presentations
+- AI and Health 101 – <https://guicardoso.substack.com/p/ai-and-health-101> 
+- *Thesis*: Cardiovascular Outcomes and Population Perception on Heart Failure: socioeconomic and regional differences - [link](https://drive.google.com/file/d/1cc8ylyeD5SGFAGRX3gp6nNHMJLlDEG8a/view?usp=sharing)
+- Medical Students’ Response to the COVID-19 Pandemic: Experience and Recommendations from Five Countries - [link](https://doi.org/10.1353/pbm.2020.0051)
+- Flowchart: considerations for rapid manufacturing in a crisis - [link](https://www.panfab.org/considerations-for-rapid-manufacturing-in-a-crisis)
+- Module 5: Communicating Information about COVID-19 - [link](https://curriculum.covidstudentresponse.org/module-5-communicating-about-covid-19)
+- Module 7: Global Innovation and Collaboration - [link](https://curriculum.covidstudentresponse.org/module-7-global-innovation-and-collaboration)
+- Brazil maker community response to COVID-19 - [link](https://vimeo.com/437970810)
+
 # Education
 
 **Universidade Federal do Paraná** , Curitiba, Brazil — 07/2016-06/2023
@@ -131,8 +141,5 @@ Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardo
 
 # Skills and Interests
 
-Skills: R, Stata, Python
-General interests: data science, design, literature, and sports
-
-# Personal Publications
-AI and Health 101 – <https://guicardoso.substack.com/p/ai-and-health-101> 
+- Skills: R, Stata, Python
+- General interests: data science, design, literature, and sports
