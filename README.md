@@ -13,11 +13,11 @@ Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardo
 
 # Education
 
-**Universidade Federal do Paraná** , Curitiba, Brazil — 07/2016-06/2023
+**Universidade Federal do Paraná**, Curitiba, Brazil — 07/2016-06/2023
 
 - Medical Degree conferred on 06/30/2023
 
-**Mass. Eye and Ear Infirmary/Harvard Medical School,** Boston, US – 01/2019-02/2019
+**Mass. Eye and Ear Infirmary/Harvard Medical School**, Boston, US – 01/2019-02/2019
 
 - Internship at Gilmore's lab (Infectious Disease Institute, HMS Department of
     Ophthalmology).
@@ -37,7 +37,7 @@ Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardo
 - Conducted research on improvement of tumor board platforms.
 - Attended Internal Medicine conferences during non-Hematology/Oncology clinic periods.
 
-**Stanford Medicine,** Palo Alto, US – 05/2023
+**Stanford Medicine**, Palo Alto, US – 05/2023
 
 - Observership in Otorhinolaryngology/Head & Neck Surgery.
 - Experience in clinic, operation room, and conferences
@@ -46,7 +46,7 @@ Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardo
 
 # Experience
 
-**Brazil Conference at Harvard & MIT** , Cambridge, US – 04/2018-06/2023
+**Brazil Conference at Harvard & MIT**, Cambridge, US – 04/2018-06/2023
 
 - Co-organized four editions of the largest student conference led by Brazilian students to
     discuss Brazilian society, arts, culture, and politics. The conference had prominent figures
@@ -66,7 +66,7 @@ Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardo
     promote our Brazil Conference Communities initiative. And I got a space to promote the
     event in a leading newspaper in the country, Estadão.
 
-**AppiaCare** , São Paulo, Brazil – 12/2018-02/2019
+**AppiaCare**, São Paulo, Brazil – 12/2018-02/2019
 
 - Joined the initial team of a healthtech founded by two MBAs (Stanford/MIT), gaining
     valuable insights into the startup ecosystem and the healthcare industry.
@@ -76,7 +76,7 @@ Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardo
 - Produced a report on the findings of the interviews and site visits, which was used to inform
     the development of AppiaCare's product and services.
 
-**Harvard COVID-19 Medical Student Curriculum** , Boston, US (remote) – 2020
+**Harvard COVID-19 Medical Student Curriculum**, Boston, US (remote) – 2020
 
 - Co-authored two chapters of a text project aimed at disseminating COVID-19 knowledge to
     medical students. The chapters were included in the curriculum of over a dozen medical
@@ -90,7 +90,7 @@ Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardo
 - Collaborated with medical students from five different countries on an article that shared
     collective experiences and documented local responses to COVID-19 [paper](https://doi.org/10.1353/pbm.2020.0051).
 
-**Boston Pandemic Fabrication Team** , Boston, US (remote) – 2020-2021
+**Boston Pandemic Fabrication Team**, Boston, US (remote) – 2020-2021
 
 - Led the international engagement track and worked with a diverse and small team of
     professionals from a variety of backgrounds, including physicians, scientists, engineers,
@@ -98,12 +98,11 @@ Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardo
 - Co-developed a flowchart for rapid manufacturing during crisis situations. This flowchart
     ensured efficient and effective response to pandemic needs by providing a clear and
     concise guide to the manufacturing process.
-
-
 - Delivered a talk at the annual conference organized by the Harvard-MIT Center for
     Regulatory Science to an audience of FDA regulators, CDC agents, and individuals from
     academia and industry. The talk highlighted the importance of rapid manufacturing in
     responding to pandemics and provided an overview of the flowchart that was developed.
+- [Link](https://www.panfab.org/the-team-and-the-project/coordinating-team)
 
 **Combat COVID Brazil** , Brazil-US (remote) – 2020-2022
 
@@ -118,6 +117,7 @@ Email: <lg_cardoso@icloud.com> • [LinkedIn](linkedin.com/in/luisguilhermecardo
     support.
 - Our initiative was featured on CNN Brazil, underscoring the significance and impact of our
     work.
+- [Link](https://www.combatecovidbrasil.org)
 
 **RAPID-19 (Repository of Aggregated Pediatric International Data on COVID-19)** , Boston, US (remote) – 2020-2022
 
